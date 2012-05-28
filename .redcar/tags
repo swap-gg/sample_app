@@ -1,0 +1,5 @@
+1338222753
+Application	/home/swapnil/rails_projects/sample_app/config/application.rb	  class Application 
+ApplicationController	/home/swapnil/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/swapnil/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+SampleApp	/home/swapnil/rails_projects/sample_app/config/application.rb	module SampleApp
